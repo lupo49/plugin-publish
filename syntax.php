@@ -143,4 +143,3 @@ class syntax_plugin_publish extends DokuWiki_Syntax_Plugin {
 
 }
 
-?>
