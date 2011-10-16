@@ -4,5 +4,4 @@
 $meta['apr_namespaces'] = array();
 $meta['apr_approved_text'] = array();
 
-?>
 
