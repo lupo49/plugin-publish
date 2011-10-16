@@ -78,4 +78,3 @@ function in_sub_namespace($valid, $check) {
         );
     }
 
-?>
