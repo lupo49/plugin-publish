@@ -1,0 +1,7 @@
+base   publish
+author Jarrod Lowe
+email  dokuwiki@rrod.net
+date   2009-08-26
+name   publish Plugin
+desc   An Approved/Draft system for DokuWiki
+url    http://www.dokuwiki.org/plugin:publish
